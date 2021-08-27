@@ -1,5 +1,5 @@
 # ipcalculator
-HTML interface IP subnet calculator
+HTML interface IP subnet calculator.
 
 ## Usage
 Download the **ipcalculator.html** file in your computer.
